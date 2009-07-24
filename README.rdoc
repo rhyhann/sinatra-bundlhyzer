@@ -1,0 +1,7 @@
+= sinatra-bundlhyzer
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 rhyhann. See LICENSE for details.
